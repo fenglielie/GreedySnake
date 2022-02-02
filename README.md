@@ -7,13 +7,13 @@ https://github.com/silence1772/GreedySnake
 原仓库中附带的教程地址：http://blog.csdn.net/silence1772/article/details/55005008
 
 ## 游戏截图：
-![](image\shot01.jpg)
+![](image/shot01.jpg)
 
-![](image\shot02.jpg)
+![](image/shot02.jpg)
 
-![](image\shot03.gif)
+![](image/shot03.gif)
 
-![](image\shot04.gif)
+![](image/shot04.gif)
 
 下载后使用make即可编译，或者g++执行下列命令
 ```
